@@ -6,13 +6,16 @@
    display: inline;
  }
 
- nav a {
-   text-transform: uppercase;
- }
+nav a {
+ text-transform: uppercase;
+ color: #000000;
+font-weight: bold;
+font-size: 22px;
+  text-decoration: none;
+}
 
 
 
-  nav {
     position:absolute;
     top : 0;
     right: 0;
